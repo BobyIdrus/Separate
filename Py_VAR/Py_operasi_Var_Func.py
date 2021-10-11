@@ -3,7 +3,7 @@ def myfunc():
   print("Mari Belajar " + a)
 myfunc()
 
-print("----------------------")
+print("---------------------")
 
 b = "Visual Python"
 def myfunc():
@@ -12,7 +12,7 @@ def myfunc():
 myfunc()
 print("Mari Belajar " + b)
 
-print("----------------------")
+print("---------------------")
 
 def myfunc():
   global c
@@ -20,7 +20,7 @@ def myfunc():
 myfunc()
 print("Mari Belajar " + c)
 
-print("----------------------")
+print("---------------------")
 
 d = "Visual Python"
 def myfunc():
