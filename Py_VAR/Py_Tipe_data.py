@@ -16,14 +16,14 @@ print(type(c))
 
 print("---------------------")
 
-d = ["apple", "banana", "cherry"]
+d = ["Ikan", "Sapi", "Ayam"]
 print(d)
 print(type(d)) 
 #class 'list'
 
 print("---------------------")
 
-e = ("apple", "banana", "cherry")
+e = ("Ikan", "Sapi", "Ayam")
 print(e)
 print(type(e)) 
 #class 'tuple'
